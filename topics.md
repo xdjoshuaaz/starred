@@ -48,18 +48,22 @@
 - [kubernetes](#kubernetes)
 - [language](#language)
 - [library](#library)
+- [linux](#linux)
 - [localization](#localization)
 - [minecraft](#minecraft)
 - [mongodb](#mongodb)
 - [music](#music)
 - [mysql](#mysql)
 - [nodejs](#nodejs)
+- [open-source](#open-source)
 - [others](#others)
 - [parsing](#parsing)
 - [powershell](#powershell)
+- [privacy](#privacy)
 - [programming](#programming)
 - [pwa](#pwa)
 - [python](#python)
+- [qt](#qt)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [redux](#redux)
@@ -67,6 +71,7 @@
 - [security](#security)
 - [self-hosted](#self-hosted)
 - [shell](#shell)
+- [statistics](#statistics)
 - [storybook](#storybook)
 - [terraform](#terraform)
 - [testing](#testing)
@@ -74,6 +79,7 @@
 - [unity](#unity)
 - [visual-basic](#visual-basic)
 - [web](#web)
+- [webapp](#webapp)
 - [windows](#windows)
 - [xamarin](#xamarin)
 
@@ -105,6 +111,7 @@
 
 ## automation 
 
+- [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 
 ## awesome 
@@ -137,6 +144,7 @@
 
 ## csharp 
 
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [thomhurst/ModularPipelines](https://github.com/thomhurst/ModularPipelines) - Write your pipelines in C# !
 - [KirillOsenkov/MSBuildStructuredLog](https://github.com/KirillOsenkov/MSBuildStructuredLog) - A logger for MSBuild that records a structured representation of executed targets, tasks, property and item values.
 - [EntityGraphQL/EntityGraphQL](https://github.com/EntityGraphQL/EntityGraphQL) - A GraphQL library for .NET
@@ -158,6 +166,7 @@
 
 ## devops 
 
+- [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
 
@@ -167,6 +176,7 @@
 
 ## docker 
 
+- [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
 - [tiredofit/docker-db-backup](https://github.com/tiredofit/docker-db-backup) - Backup multiple database types on a scheduled basis with many customizable options
@@ -174,6 +184,7 @@
 
 ## dotnet 
 
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [dontnod/web-app-starter](https://github.com/dontnod/web-app-starter) - Boilerplate for a web application with React and .Net Core using Azure (MSAL) for the authentication
 - [thomhurst/ModularPipelines](https://github.com/thomhurst/ModularPipelines) - Write your pipelines in C# !
 - [MassTransit/MassTransit](https://github.com/MassTransit/MassTransit) - Distributed Application Framework for .NET
@@ -241,6 +252,7 @@
 
 ## golang 
 
+- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 
 ## graphql 
@@ -251,6 +263,10 @@
 
 ## hacktoberfest 
 
+- [KevinJump/uSync](https://github.com/KevinJump/uSync) - Database syncing tool for Umbraco CMS
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
+- [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
+- [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
@@ -308,6 +324,10 @@
 
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 
+## linux 
+
+- [shundhammer/qdirstat](https://github.com/shundhammer/qdirstat) - QDirStat - Qt-based directory statistics (KDirStat without any KDE - from the original KDirStat author)
+
 ## localization 
 
 - [Humanizr/Humanizer](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
@@ -334,8 +354,14 @@
 - [graphql/dataloader](https://github.com/graphql/dataloader) - DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and ca
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 
+## open-source 
+
+- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
+
 ## others 
 
+- [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
+- [eclipse/mosquitto](https://github.com/eclipse/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
 - [jcdcdev/jcdcdev.Umbraco.PackageTemplate](https://github.com/jcdcdev/jcdcdev.Umbraco.PackageTemplate) - An opinionated template for creating Umbraco packages hosted on Github.
 - [tc39/proposal-upsert](https://github.com/tc39/proposal-upsert) - ECMAScript Proposal, specs, and reference implementation for Map.prototype.upsert
 - [tc39/proposal-promise-try](https://github.com/tc39/proposal-promise-try) - ECMAScript Proposal, specs, and reference implementation for Promise.try
@@ -381,6 +407,10 @@
 
 - [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Persona
 
+## privacy 
+
+- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
+
 ## programming 
 
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
@@ -393,12 +423,17 @@
 
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
+## qt 
+
+- [shundhammer/qdirstat](https://github.com/shundhammer/qdirstat) - QDirStat - Qt-based directory statistics (KDirStat without any KDE - from the original KDirStat author)
+
 ## raspberry-pi 
 
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 ## react 
 
+- [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
 - [dontnod/web-app-starter](https://github.com/dontnod/web-app-starter) - Boilerplate for a web application with React and .Net Core using Azure (MSAL) for the authentication
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 - [Omnistac/zedux](https://github.com/Omnistac/zedux) - :zap: A Molecular State Engine for React
@@ -422,12 +457,17 @@
 
 ## self-hosted 
 
+- [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
 
 ## shell 
 
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
+
+## statistics 
+
+- [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
 
 ## storybook 
 
@@ -444,6 +484,7 @@
 ## typescript 
 
 - [microsoft/tsyringe](https://github.com/microsoft/tsyringe) - Lightweight dependency injection container for JavaScript/TypeScript
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript.
 - [ardatan/feTS](https://github.com/ardatan/feTS) - 🗹 TypeScript HTTP Framework focusing on e2e type-safety, easy setup, performance & great developer experience
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [fabien0102/openapi-codegen](https://github.com/fabien0102/openapi-codegen) - A tool for generating code base on an OpenAPI schema.
@@ -464,6 +505,10 @@
 
 - [supermedium/moonrider](https://github.com/supermedium/moonrider) - 🌕🏄🏿 Surf the musical road among the stars. Side project built by two people in a few months to demonstrate WebXR.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+
+## webapp 
+
+- [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
 
 ## windows 
 
