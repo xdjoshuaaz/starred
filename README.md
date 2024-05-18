@@ -24,11 +24,14 @@
 
 ## C 
 
+- [eclipse/mosquitto](https://github.com/eclipse/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
 - [emmebrusa/TSDZ2-Smart-EBike-1](https://github.com/emmebrusa/TSDZ2-Smart-EBike-1) - TSDZ2 Open Source Firmware adapted to VLCD5-VLCD6-XH18 displays
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
 
 ## C# # 
 
+- [KevinJump/uSync](https://github.com/KevinJump/uSync) - Database syncing tool for Umbraco CMS
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [dontnod/web-app-starter](https://github.com/dontnod/web-app-starter) - Boilerplate for a web application with React and .Net Core using Azure (MSAL) for the authentication
 - [jcdcdev/jcdcdev.Umbraco.PackageTemplate](https://github.com/jcdcdev/jcdcdev.Umbraco.PackageTemplate) - An opinionated template for creating Umbraco packages hosted on Github.
 - [thomhurst/ModularPipelines](https://github.com/thomhurst/ModularPipelines) - Write your pipelines in C# !
@@ -65,6 +68,7 @@
 
 ## C++ 
 
+- [shundhammer/qdirstat](https://github.com/shundhammer/qdirstat) - QDirStat - Qt-based directory statistics (KDirStat without any KDE - from the original KDirStat author)
 - [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
 - [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 - [mariusmotea/diyHue](https://github.com/mariusmotea/diyHue) - Philips Hue emulator that is able to control multiple types of lights
@@ -79,6 +83,9 @@
 
 ## Go 
 
+- [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
+- [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
+- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 
 ## HTML 
@@ -96,6 +103,7 @@
 
 ## JavaScript 
 
+- [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [dylanraga/win11hdr-srgb-to-gamma2.2-icm](https://github.com/dylanraga/win11hdr-srgb-to-gamma2.2-icm) - Transform Windows 11's virtual SDR-in-HDR curve from piecewise sRGB to Gamma 2.2
 - [supermedium/moonrider](https://github.com/supermedium/moonrider) - 🌕🏄🏿 Surf the musical road among the stars. Side project built by two people in a few months to demonstrate WebXR.
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
@@ -143,6 +151,7 @@
 
 ## TypeScript 
 
+- [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
 - [nevware21/ts-async](https://github.com/nevware21/ts-async) - Promise support utilites and helpers for TypeScript
 - [microsoft/tsyringe](https://github.com/microsoft/tsyringe) - Lightweight dependency injection container for JavaScript/TypeScript
 - [jotaijs/jotai-tanstack-query](https://github.com/jotaijs/jotai-tanstack-query) - Jotai integration library for TanStack Query
