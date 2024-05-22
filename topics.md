@@ -21,6 +21,7 @@
 - [csharp](#csharp)
 - [data](#data)
 - [data-analysis](#data-analysis)
+- [database](#database)
 - [devops](#devops)
 - [discord](#discord)
 - [docker](#docker)
@@ -58,6 +59,7 @@
 - [open-source](#open-source)
 - [others](#others)
 - [parsing](#parsing)
+- [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
 - [programming](#programming)
@@ -71,6 +73,9 @@
 - [security](#security)
 - [self-hosted](#self-hosted)
 - [shell](#shell)
+- [sql](#sql)
+- [sql-server](#sql-server)
+- [sqlite](#sqlite)
 - [statistics](#statistics)
 - [storybook](#storybook)
 - [terraform](#terraform)
@@ -143,6 +148,7 @@
 
 ## csharp 
 
+- [sqlkata/querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [thomhurst/ModularPipelines](https://github.com/thomhurst/ModularPipelines) - Write your pipelines in C# !
 - [KirillOsenkov/MSBuildStructuredLog](https://github.com/KirillOsenkov/MSBuildStructuredLog) - A logger for MSBuild that records a structured representation of executed targets, tasks, property and item values.
@@ -162,6 +168,11 @@
 ## data-analysis 
 
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+
+## database 
+
+- [sqlkata/querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
+- [linq2db/linq2db](https://github.com/linq2db/linq2db) - Linq to database provider.
 
 ## devops 
 
@@ -183,6 +194,7 @@
 
 ## dotnet 
 
+- [linq2db/linq2db](https://github.com/linq2db/linq2db) - Linq to database provider.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [dontnod/web-app-starter](https://github.com/dontnod/web-app-starter) - Boilerplate for a web application with React and .Net Core using Azure (MSAL) for the authentication
 - [thomhurst/ModularPipelines](https://github.com/thomhurst/ModularPipelines) - Write your pipelines in C# !
@@ -346,6 +358,8 @@
 
 ## mysql 
 
+- [sqlkata/querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
+- [linq2db/linq2db](https://github.com/linq2db/linq2db) - Linq to database provider.
 - [tiredofit/docker-db-backup](https://github.com/tiredofit/docker-db-backup) - Backup multiple database types on a scheduled basis with many customizable options
 
 ## nodejs 
@@ -402,6 +416,11 @@
 ## parsing 
 
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+
+## postgresql 
+
+- [sqlkata/querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
+- [linq2db/linq2db](https://github.com/linq2db/linq2db) - Linq to database provider.
 
 ## powershell 
 
@@ -464,6 +483,20 @@
 ## shell 
 
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
+
+## sql 
+
+- [linq2db/linq2db.EntityFrameworkCore](https://github.com/linq2db/linq2db.EntityFrameworkCore) - Bring power of Linq To DB to Entity Framework Core projects
+- [sqlkata/querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
+- [linq2db/linq2db](https://github.com/linq2db/linq2db) - Linq to database provider.
+
+## sql-server 
+
+- [sqlkata/querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
+
+## sqlite 
+
+- [linq2db/linq2db](https://github.com/linq2db/linq2db) - Linq to database provider.
 
 ## statistics 
 
