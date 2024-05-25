@@ -66,7 +66,7 @@
 - [benaadams/Ben.Demystifier](https://github.com/benaadams/Ben.Demystifier) - High performance understanding for stack traces (Make error logs more productive)
 - [tompazourek/AspNetMvcOnSdk](https://github.com/tompazourek/AspNetMvcOnSdk) - Sample application demonstrating design-time Razor Intellisense issues on a barebones ASP.NET MVC (non-Core) app using an SDK-style project on top of .NET Framework 4.8.
 - [novotnyllc/MSBuildSdkExtras](https://github.com/novotnyllc/MSBuildSdkExtras) - Extra properties for MSBuild SDK projects
-- [umbraco/Umbraco-CMS](https://github.com/umbraco/Umbraco-CMS) - The simple, flexible and friendly ASP.NET CMS used by more than 730.000 websites
+- [umbraco/Umbraco-CMS](https://github.com/umbraco/Umbraco-CMS) - Umbraco is a free and open source .NET content management system helping you deliver delightful digital experiences.
 - [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services. Supports Visual Studi
 - [EcsRx/ecsrx](https://github.com/EcsRx/ecsrx) - A reactive take on the ECS pattern for .net game developers
 
