@@ -30,7 +30,7 @@
 
 ## C# # 
 
-- [jcdcdev/jcdcdev.Umbraco.ReadingTime](https://github.com/jcdcdev/jcdcdev.Umbraco.ReadingTime) - Custom Data Type for calculating reading time.
+- [jcdcdev/jcdcdev.Umbraco.ReadingTime](https://github.com/jcdcdev/jcdcdev.Umbraco.ReadingTime) - Custom Umbraco property editor for calculating reading time ⏲️
 - [linq2db/linq2db.EntityFrameworkCore](https://github.com/linq2db/linq2db.EntityFrameworkCore) - Bring power of Linq To DB to Entity Framework Core projects
 - [sqlkata/querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
 - [linq2db/linq2db](https://github.com/linq2db/linq2db) - Linq to database provider.
@@ -97,7 +97,7 @@
 
 - [tc39/proposal-upsert](https://github.com/tc39/proposal-upsert) - ECMAScript Proposal, specs, and reference implementation for Map.prototype.upsert
 - [tc39/proposal-promise-try](https://github.com/tc39/proposal-promise-try) - ECMAScript Proposal, specs, and reference implementation for Promise.try
-- [jcdcdev/Umbraco.Community.SimpleDashboards](https://github.com/jcdcdev/Umbraco.Community.SimpleDashboards) - This packages aims to help developers quickly put together Umbraco Dashboards using C# only.
+- [jcdcdev/Umbraco.Community.SimpleDashboards](https://github.com/jcdcdev/Umbraco.Community.SimpleDashboards) - Simplifies C# based Umbraco CMS dashboards ✨
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
 - [KevinJump/DoStuffWithUmbraco](https://github.com/KevinJump/DoStuffWithUmbraco) - Bits and Pieces of Code to do things with Umbraco 8 & NetCore
 
