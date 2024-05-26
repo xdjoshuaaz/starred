@@ -373,7 +373,7 @@
 
 ## others 
 
-- [jcdcdev/jcdcdev.Umbraco.ReadingTime](https://github.com/jcdcdev/jcdcdev.Umbraco.ReadingTime) - Custom Data Type for calculating reading time.
+- [jcdcdev/jcdcdev.Umbraco.ReadingTime](https://github.com/jcdcdev/jcdcdev.Umbraco.ReadingTime) - Custom Umbraco property editor for calculating reading time ⏲️
 - [bp2008/BetterClearTypeTuner](https://github.com/bp2008/BetterClearTypeTuner) - A better way to configure ClearType font smoothing on Windows 10.
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [eclipse/mosquitto](https://github.com/eclipse/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
@@ -389,7 +389,7 @@
 - [threenine/Threenine.Data](https://github.com/threenine/Threenine.Data) - A Microsoft Entity Framework Core plugin providing Unit of work and repository pattern abstraction layer with common functionality
 - [kaganisildak/malwarescarecrow](https://github.com/kaganisildak/malwarescarecrow) - A tool designed to make physical devices detectable by malware and make system look like virtual machine.
 - [xunit/xunit.analyzers](https://github.com/xunit/xunit.analyzers) - Roslyn analyzers for xUnit.net (please open issues in https://github.com/xunit/xunit)
-- [jcdcdev/Umbraco.Community.SimpleDashboards](https://github.com/jcdcdev/Umbraco.Community.SimpleDashboards) - This packages aims to help developers quickly put together Umbraco Dashboards using C# only.
+- [jcdcdev/Umbraco.Community.SimpleDashboards](https://github.com/jcdcdev/Umbraco.Community.SimpleDashboards) - Simplifies C# based Umbraco CMS dashboards ✨
 - [microsoft/MSBuildSdks](https://github.com/microsoft/MSBuildSdks) - MSBuild project SDKs
 - [ddd-crew/ddd-starter-modelling-process](https://github.com/ddd-crew/ddd-starter-modelling-process) - If you're new to DDD and not sure where to start, this process will guide you step-by-step
 - [microsoft/slngen](https://github.com/microsoft/slngen) - Visual Studio solution generator
