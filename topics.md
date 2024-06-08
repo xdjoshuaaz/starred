@@ -373,6 +373,7 @@
 
 ## others 
 
+- [videokojot/EFCore.BulkExtensions.MIT](https://github.com/videokojot/EFCore.BulkExtensions.MIT) - 
 - [jcdcdev/jcdcdev.Umbraco.ReadingTime](https://github.com/jcdcdev/jcdcdev.Umbraco.ReadingTime) - Custom Umbraco property editor for calculating reading time ⏲️
 - [bp2008/BetterClearTypeTuner](https://github.com/bp2008/BetterClearTypeTuner) - A better way to configure ClearType font smoothing on Windows 10.
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
