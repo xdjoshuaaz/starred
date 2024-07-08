@@ -77,11 +77,13 @@
 - [sqlite](#sqlite)
 - [statistics](#statistics)
 - [storybook](#storybook)
+- [svelte](#svelte)
 - [terraform](#terraform)
 - [testing](#testing)
 - [typescript](#typescript)
 - [unity](#unity)
 - [visual-basic](#visual-basic)
+- [vue](#vue)
 - [web](#web)
 - [webapp](#webapp)
 - [windows](#windows)
@@ -503,6 +505,10 @@
 
 - [AdaptiveConsulting/ReactiveTraderCloud](https://github.com/AdaptiveConsulting/ReactiveTraderCloud) - Real-time FX trading showcase by Adaptive.
 
+## svelte 
+
+- [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
+
 ## terraform 
 
 - [toboshii/home-ops](https://github.com/toboshii/home-ops) - My home Kubernetes cluster managed by GitOps (Flux), deployed on Talos Linux.
@@ -514,6 +520,7 @@
 ## typescript 
 
 - [microsoft/tsyringe](https://github.com/microsoft/tsyringe) - Lightweight dependency injection container for JavaScript/TypeScript
+- [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript
 - [ardatan/feTS](https://github.com/ardatan/feTS) - 🗹 TypeScript HTTP Framework focusing on e2e type-safety, easy setup, performance & great developer experience
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
@@ -530,6 +537,10 @@
 ## visual-basic 
 
 - [CZEMacLeod/MSBuild.SDK.SystemWeb](https://github.com/CZEMacLeod/MSBuild.SDK.SystemWeb) - This MSBuild SDK is designed to allow for the easy creation and use of SDK (shortform) projects targeting ASP.NET 4.x using System.Web.
+
+## vue 
+
+- [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 
 ## web 
 
