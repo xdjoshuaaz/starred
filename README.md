@@ -17,6 +17,7 @@
 - [PowerShell](#powershell)
 - [Python](#python)
 - [Ruby](#ruby)
+- [SCSS](#scss)
 - [Shell](#shell)
 - [TypeScript](#typescript)
 - [Visual Basic .NET](#visual-basic-.net)
@@ -56,7 +57,6 @@
 - [domn1995/dunet](https://github.com/domn1995/dunet) - C# discriminated union source generator
 - [gitextensions/gitextensions](https://github.com/gitextensions/gitextensions) - Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019).
 - [devlooped/ThisAssembly](https://github.com/devlooped/ThisAssembly) - Exposes project and assembly level information as constants in the ThisAssembly class using source generators powered by Roslyn.
-- [devlooped/oss](https://github.com/devlooped/oss) - Basic repo configuration for my OSS projects
 - [EdwinVW/dapr-traffic-control](https://github.com/EdwinVW/dapr-traffic-control) - Simple sample application for experimenting with dapr.
 - [riok/mapperly](https://github.com/riok/mapperly) - A .NET source generator for generating object mappings. No runtime reflection.
 - [louthy/language-ext](https://github.com/louthy/language-ext) - C# functional language extensions - a base class library for functional programming
@@ -144,6 +144,10 @@
 ## Ruby 
 
 - [bbc/wraith](https://github.com/bbc/wraith) - Wraith — A responsive screenshot comparison tool
+
+## SCSS 
+
+- [devlooped/oss](https://github.com/devlooped/oss) - Basic repo configuration for my OSS projects
 
 ## Shell 
 
