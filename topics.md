@@ -373,6 +373,7 @@
 
 ## others 
 
+- [koenbeuk/EntityFrameworkCore.Projectables](https://github.com/koenbeuk/EntityFrameworkCore.Projectables) - Project over properties and functions in your linq queries
 - [TPJelf/kankan](https://github.com/TPJelf/kankan) - Task management web app for people who struggle to get started.
 - [videokojot/EFCore.BulkExtensions.MIT](https://github.com/videokojot/EFCore.BulkExtensions.MIT) - 
 - [jcdcdev/jcdcdev.Umbraco.ReadingTime](https://github.com/jcdcdev/jcdcdev.Umbraco.ReadingTime) - Custom Umbraco property editor for calculating reading time ⏲️
