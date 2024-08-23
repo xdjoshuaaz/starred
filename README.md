@@ -30,6 +30,7 @@
 
 ## C# # 
 
+- [koenbeuk/EntityFrameworkCore.Projectables](https://github.com/koenbeuk/EntityFrameworkCore.Projectables) - Project over properties and functions in your linq queries
 - [videokojot/EFCore.BulkExtensions.MIT](https://github.com/videokojot/EFCore.BulkExtensions.MIT) - 
 - [jcdcdev/jcdcdev.Umbraco.ReadingTime](https://github.com/jcdcdev/jcdcdev.Umbraco.ReadingTime) - Custom Umbraco property editor for calculating reading time ⏲️
 - [linq2db/linq2db.EntityFrameworkCore](https://github.com/linq2db/linq2db.EntityFrameworkCore) - Bring power of Linq To DB to Entity Framework Core projects
