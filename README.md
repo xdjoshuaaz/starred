@@ -14,7 +14,6 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Others](#others)
-- [PowerShell](#powershell)
 - [Python](#python)
 - [Ruby](#ruby)
 - [SCSS](#scss)
@@ -53,6 +52,7 @@
 - [microsoft/MSBuildSdks](https://github.com/microsoft/MSBuildSdks) - MSBuild project SDKs
 - [Humanizr/Humanizer](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
 - [ardalis/GuardClauses](https://github.com/ardalis/GuardClauses) - A simple package with guard clause extensions.
+- [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Persona
 - [EntityGraphQL/EntityGraphQL](https://github.com/EntityGraphQL/EntityGraphQL) - A GraphQL library for .NET
 - [microsoft/slngen](https://github.com/microsoft/slngen) - Visual Studio solution generator
 - [SimonCropp/Polyfill](https://github.com/SimonCropp/Polyfill) - Source only package that exposes newer .net and C# features to older runtimes.
@@ -130,10 +130,6 @@
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [amis92/csharp-source-generators](https://github.com/amis92/csharp-source-generators) - A list of C# Source Generators (not necessarily awesome) and associated resources: articles, talks, demos.
 - [KirillOsenkov/Bliki](https://github.com/KirillOsenkov/Bliki) - Blog/Wiki/Notes
-
-## PowerShell 
-
-- [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Persona
 
 ## Python 
 
