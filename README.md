@@ -23,7 +23,7 @@
 
 ## C 
 
-- [eclipse/mosquitto](https://github.com/eclipse/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
+- [eclipse-mosquitto/mosquitto](https://github.com/eclipse-mosquitto/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
 - [emmebrusa/TSDZ2-Smart-EBike-1](https://github.com/emmebrusa/TSDZ2-Smart-EBike-1) - TSDZ2 Open Source Firmware adapted to VLCD5-VLCD6-XH18 displays
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
 
