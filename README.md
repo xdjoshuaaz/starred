@@ -29,6 +29,7 @@
 
 ## C# # 
 
+- [craigmccauley/QueryR](https://github.com/craigmccauley/QueryR) - Ad-Hoc querying library for .Net
 - [thomhurst/TUnit](https://github.com/thomhurst/TUnit) - A modern, fast and flexible .NET testing framework
 - [VerifyTests/Verify](https://github.com/VerifyTests/Verify) - Verify is a snapshot testing tool that simplifies the assertion of complex data models and documents.
 - [tpill90/ValheimMods](https://github.com/tpill90/ValheimMods) - A collection of mods for the game Valheim
