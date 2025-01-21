@@ -149,6 +149,7 @@
 
 ## csharp 
 
+- [dotnet/dotNext](https://github.com/dotnet/dotNext) - Next generation API for .NET
 - [craigmccauley/QueryR](https://github.com/craigmccauley/QueryR) - Ad-Hoc querying library for .Net
 - [sqlkata/querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
@@ -196,6 +197,7 @@
 
 ## dotnet 
 
+- [dotnet/dotNext](https://github.com/dotnet/dotNext) - Next generation API for .NET
 - [linq2db/linq2db](https://github.com/linq2db/linq2db) - Linq to database provider.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [dontnod/web-app-starter](https://github.com/dontnod/web-app-starter) - Boilerplate for a web application with React and .Net Core using Azure (MSAL) for the authentication
