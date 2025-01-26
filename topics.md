@@ -376,6 +376,7 @@
 
 ## others 
 
+- [Eptagone/Vite.AspNetCore](https://github.com/Eptagone/Vite.AspNetCore) - Small library to integrate Vite into ASP.NET projects
 - [thomhurst/TUnit](https://github.com/thomhurst/TUnit) - A modern, fast and flexible .NET testing framework
 - [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters
 - [tpill90/ValheimMods](https://github.com/tpill90/ValheimMods) - A collection of mods for the game Valheim
