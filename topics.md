@@ -18,6 +18,7 @@
 - [chrome](#chrome)
 - [cli](#cli)
 - [code-review](#code-review)
+- [cpp](#cpp)
 - [csharp](#csharp)
 - [data](#data)
 - [data-analysis](#data-analysis)
@@ -146,6 +147,10 @@
 ## code-review 
 
 - [erikthedeveloper/code-review-emoji-guide](https://github.com/erikthedeveloper/code-review-emoji-guide) - An emoji legend to help convey intention and added meaning in code review comments.
+
+## cpp 
+
+- [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
 
 ## csharp 
 
