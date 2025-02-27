@@ -47,6 +47,7 @@
 - [ios](#ios)
 - [iot](#iot)
 - [javascript](#javascript)
+- [jquery](#jquery)
 - [kubernetes](#kubernetes)
 - [language](#language)
 - [library](#library)
@@ -319,6 +320,7 @@
 
 ## javascript 
 
+- [gnat/surreal](https://github.com/gnat/surreal) - 🗿 Mini jQuery alternative. Dependency-free animations. Locality of Behavior.  Use one element or arrays transparently. Pairs with htmx. Vanilla querySelector() but better!
 - [supermedium/moonrider](https://github.com/supermedium/moonrider) - 🌕🏄🏿 Surf the musical road among the stars. Side project built by two people in a few months to demonstrate WebXR.
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
@@ -327,6 +329,10 @@
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [tiberiuzuld/angular-gridster2](https://github.com/tiberiuzuld/angular-gridster2) - Angular gridster 2
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+
+## jquery 
+
+- [gnat/surreal](https://github.com/gnat/surreal) - 🗿 Mini jQuery alternative. Dependency-free animations. Locality of Behavior.  Use one element or arrays transparently. Pairs with htmx. Vanilla querySelector() but better!
 
 ## kubernetes 
 
