@@ -387,6 +387,7 @@
 
 ## others 
 
+- [DamianEdwards/dotnet-purge](https://github.com/DamianEdwards/dotnet-purge) - .NET tool to do a real clean of a project directory
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
 - [devcontainers/spec](https://github.com/devcontainers/spec) - Development Containers: Use a container as a full-featured development environment.
 - [Eptagone/Vite.AspNetCore](https://github.com/Eptagone/Vite.AspNetCore) - Small library to integrate Vite into ASP.NET projects
