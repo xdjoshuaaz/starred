@@ -422,7 +422,7 @@
 - [smallstep/docker-tls](https://github.com/smallstep/docker-tls) - TLS Certificate Management solutions for common Docker services. Including ACME enrollment, renewal, and reloading. Works with smallstep/certificates.
 - [devlooped/ThisAssembly](https://github.com/devlooped/ThisAssembly) - Exposes project and assembly level information as constants in the ThisAssembly class using source generators powered by Roslyn.
 - [devlooped/oss](https://github.com/devlooped/oss) - Basic repo configuration for my OSS projects
-- [dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker) - Docker images for .NET and the .NET Tools.
+- [dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker) - Official container images for .NET
 - [EdwinVW/dapr-traffic-control](https://github.com/EdwinVW/dapr-traffic-control) - Simple sample application for experimenting with dapr.
 - [bbc/wraith](https://github.com/bbc/wraith) - Wraith — A responsive screenshot comparison tool
 - [rsmbl/Resemble.js](https://github.com/rsmbl/Resemble.js) - Image analysis and comparison
