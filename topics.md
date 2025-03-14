@@ -195,6 +195,7 @@
 
 ## docker 
 
+- [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy conta
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
@@ -284,6 +285,7 @@
 
 ## hacktoberfest 
 
+- [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy conta
 - [KevinJump/uSync](https://github.com/KevinJump/uSync) - Database syncing tool for Umbraco CMS
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
@@ -336,6 +338,7 @@
 
 ## kubernetes 
 
+- [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy conta
 - [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A template for deploying a Talos Kubernetes cluster including Flux for GitOps
 - [toboshii/home-ops](https://github.com/toboshii/home-ops) - My home Kubernetes cluster managed by GitOps (Flux), deployed on Talos Linux.
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
