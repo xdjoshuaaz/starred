@@ -13,6 +13,7 @@
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Lua](#lua)
 - [Others](#others)
 - [Python](#python)
 - [Ruby](#ruby)
@@ -129,6 +130,10 @@
 - [rsmbl/Resemble.js](https://github.com/rsmbl/Resemble.js) - Image analysis and comparison
 - [prjseal/Clean-Starter-Kit-for-Umbraco-v9](https://github.com/prjseal/Clean-Starter-Kit-for-Umbraco-v9) - 
 - [WICG/inert](https://github.com/WICG/inert) - Polyfill for the inert attribute and property.
+
+## Lua 
+
+- [scottmckendry/Windots](https://github.com/scottmckendry/Windots) - My personal "Windows-friendly" dotfiles.
 
 ## Others 
 
