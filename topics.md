@@ -75,6 +75,7 @@
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [rest-api](#rest-api)
+- [rust](#rust)
 - [security](#security)
 - [self-hosted](#self-hosted)
 - [shell](#shell)
@@ -160,6 +161,7 @@
 
 ## csharp 
 
+- [microsoft/rust-for-dotnet-devs](https://github.com/microsoft/rust-for-dotnet-devs) - Rust for C#/.NET Developers
 - [dotnet/dotNext](https://github.com/dotnet/dotNext) - Next generation API for .NET
 - [craigmccauley/QueryR](https://github.com/craigmccauley/QueryR) - Ad-Hoc querying library for .Net
 - [thomhurst/TUnit](https://github.com/thomhurst/TUnit) - A modern, fast and flexible .NET testing framework
@@ -214,6 +216,7 @@
 
 ## dotnet 
 
+- [microsoft/rust-for-dotnet-devs](https://github.com/microsoft/rust-for-dotnet-devs) - Rust for C#/.NET Developers
 - [dotnet/dotNext](https://github.com/dotnet/dotNext) - Next generation API for .NET
 - [thomhurst/TUnit](https://github.com/thomhurst/TUnit) - A modern, fast and flexible .NET testing framework
 - [linq2db/linq2db](https://github.com/linq2db/linq2db) - Linq to database provider.
@@ -516,6 +519,10 @@
 ## rest-api 
 
 - [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
+
+## rust 
+
+- [microsoft/rust-for-dotnet-devs](https://github.com/microsoft/rust-for-dotnet-devs) - Rust for C#/.NET Developers
 
 ## security 
 
