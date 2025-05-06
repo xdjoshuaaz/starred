@@ -64,7 +64,7 @@
 - [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Persona
 - [EntityGraphQL/EntityGraphQL](https://github.com/EntityGraphQL/EntityGraphQL) - A GraphQL library for .NET
 - [microsoft/slngen](https://github.com/microsoft/slngen) - Visual Studio solution generator
-- [SimonCropp/Polyfill](https://github.com/SimonCropp/Polyfill) - Source only package that exposes newer .net and C# features to older runtimes.
+- [SimonCropp/Polyfill](https://github.com/SimonCropp/Polyfill) - Source only package that exposes newer APIs, .net features, and C# features to older runtimes.
 - [domn1995/dunet](https://github.com/domn1995/dunet) - C# discriminated union source generator
 - [gitextensions/gitextensions](https://github.com/gitextensions/gitextensions) - Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019).
 - [devlooped/ThisAssembly](https://github.com/devlooped/ThisAssembly) - Exposes project and assembly level information as constants in the ThisAssembly class using source generators powered by Roslyn.
