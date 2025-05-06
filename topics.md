@@ -440,7 +440,7 @@
 - [microsoft/MSBuildSdks](https://github.com/microsoft/MSBuildSdks) - MSBuild project SDKs
 - [ddd-crew/ddd-starter-modelling-process](https://github.com/ddd-crew/ddd-starter-modelling-process) - If you're new to DDD and not sure where to start, this process will guide you step-by-step
 - [microsoft/slngen](https://github.com/microsoft/slngen) - Visual Studio solution generator
-- [SimonCropp/Polyfill](https://github.com/SimonCropp/Polyfill) - Source only package that exposes newer .net and C# features to older runtimes.
+- [SimonCropp/Polyfill](https://github.com/SimonCropp/Polyfill) - Source only package that exposes newer APIs, .net features, and C# features to older runtimes.
 - [emmebrusa/TSDZ2-Smart-EBike-1](https://github.com/emmebrusa/TSDZ2-Smart-EBike-1) - TSDZ2 Open Source Firmware adapted to VLCD5-VLCD6-XH18 displays
 - [catthehacker/docker_images](https://github.com/catthehacker/docker_images) - Docker images
 - [smallstep/docker-tls](https://github.com/smallstep/docker-tls) - TLS Certificate Management solutions for common Docker services. Including ACME enrollment, renewal, and reloading. Works with smallstep/certificates.
