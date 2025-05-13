@@ -15,13 +15,13 @@
 - [JavaScript](#javascript)
 - [Lua](#lua)
 - [Others](#others)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [Ruby](#ruby)
 - [SCSS](#scss)
 - [Shell](#shell)
 - [TSQL](#tsql)
 - [TypeScript](#typescript)
-- [Visual Basic .NET](#visual-basic-.net)
 - [YAML](#yaml)
 
 ## C 
@@ -149,6 +149,10 @@
 - [amis92/csharp-source-generators](https://github.com/amis92/csharp-source-generators) - A list of C# Source Generators (not necessarily awesome) and associated resources: articles, talks, demos.
 - [KirillOsenkov/Bliki](https://github.com/KirillOsenkov/Bliki) - Blog/Wiki/Notes
 
+## PowerShell 
+
+- [CZEMacLeod/MSBuild.SDK.SystemWeb](https://github.com/CZEMacLeod/MSBuild.SDK.SystemWeb) - This MSBuild SDK is designed to allow for the easy creation and use of SDK (shortform) projects targeting ASP.NET 4.x using System.Web.
+
 ## Python 
 
 - [haoheliu/versatile_audio_super_resolution](https://github.com/haoheliu/versatile_audio_super_resolution) - Versatile audio super resolution (any -&gt; 48kHz) with AudioSR.
@@ -198,10 +202,6 @@
 - [AdaptiveConsulting/ReactiveTraderCloud](https://github.com/AdaptiveConsulting/ReactiveTraderCloud) - Real-time FX trading showcase by Adaptive.
 - [tiberiuzuld/angular-gridster2](https://github.com/tiberiuzuld/angular-gridster2) - Angular gridster 2
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
-
-## Visual Basic .NET 
-
-- [CZEMacLeod/MSBuild.SDK.SystemWeb](https://github.com/CZEMacLeod/MSBuild.SDK.SystemWeb) - This MSBuild SDK is designed to allow for the easy creation and use of SDK (shortform) projects targeting ASP.NET 4.x using System.Web.
 
 ## YAML 
 
