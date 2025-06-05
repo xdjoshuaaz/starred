@@ -83,7 +83,6 @@
 - [sql-server](#sql-server)
 - [sqlite](#sqlite)
 - [statistics](#statistics)
-- [storybook](#storybook)
 - [svelte](#svelte)
 - [terraform](#terraform)
 - [testing](#testing)
@@ -255,7 +254,7 @@
 
 ## finance 
 
-- [AdaptiveConsulting/ReactiveTraderCloud](https://github.com/AdaptiveConsulting/ReactiveTraderCloud) - Real-time FX trading showcase by Adaptive.
+- [AdaptiveConsulting/ReactiveTraderCloud](https://github.com/AdaptiveConsulting/ReactiveTraderCloud) - Real-time FX trading showcase by Adaptive. THIS REPO IS NO LONGER MAINTAINED.
 
 ## firefox 
 
@@ -488,7 +487,7 @@
 
 ## pwa 
 
-- [AdaptiveConsulting/ReactiveTraderCloud](https://github.com/AdaptiveConsulting/ReactiveTraderCloud) - Real-time FX trading showcase by Adaptive.
+- [AdaptiveConsulting/ReactiveTraderCloud](https://github.com/AdaptiveConsulting/ReactiveTraderCloud) - Real-time FX trading showcase by Adaptive. THIS REPO IS NO LONGER MAINTAINED.
 
 ## python 
 
@@ -515,7 +514,7 @@
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
-- [AdaptiveConsulting/ReactiveTraderCloud](https://github.com/AdaptiveConsulting/ReactiveTraderCloud) - Real-time FX trading showcase by Adaptive.
+- [AdaptiveConsulting/ReactiveTraderCloud](https://github.com/AdaptiveConsulting/ReactiveTraderCloud) - Real-time FX trading showcase by Adaptive. THIS REPO IS NO LONGER MAINTAINED.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
 ## rest-api 
@@ -559,10 +558,6 @@
 
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
 
-## storybook 
-
-- [AdaptiveConsulting/ReactiveTraderCloud](https://github.com/AdaptiveConsulting/ReactiveTraderCloud) - Real-time FX trading showcase by Adaptive.
-
 ## svelte 
 
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
@@ -586,7 +581,7 @@
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [fabien0102/openapi-codegen](https://github.com/fabien0102/openapi-codegen) - A tool for generating code base on an OpenAPI schema.
 - [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
-- [AdaptiveConsulting/ReactiveTraderCloud](https://github.com/AdaptiveConsulting/ReactiveTraderCloud) - Real-time FX trading showcase by Adaptive.
+- [AdaptiveConsulting/ReactiveTraderCloud](https://github.com/AdaptiveConsulting/ReactiveTraderCloud) - Real-time FX trading showcase by Adaptive. THIS REPO IS NO LONGER MAINTAINED.
 - [tiberiuzuld/angular-gridster2](https://github.com/tiberiuzuld/angular-gridster2) - Angular gridster 2
 
 ## ui 
