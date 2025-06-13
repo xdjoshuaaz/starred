@@ -412,6 +412,7 @@
 
 ## others 
 
+- [scottksmith95/LINQKit](https://github.com/scottksmith95/LINQKit) - LINQKit is a free set of extensions for LINQ to SQL and Entity Framework power users.
 - [GIG-Cymru-NHS-Wales/Architecture-Decision-Records](https://github.com/GIG-Cymru-NHS-Wales/Architecture-Decision-Records) - Architecture decision records
 - [DamianEdwards/dotnet-purge](https://github.com/DamianEdwards/dotnet-purge) - .NET tool to do a real clean of a project directory
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
