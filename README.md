@@ -10,9 +10,11 @@
 - [C++](#c++)
 - [Dockerfile](#dockerfile)
 - [Go](#go)
+- [HCL](#hcl)
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jupyter Notebook](#jupyter-notebook)
 - [Lua](#lua)
 - [Others](#others)
 - [PowerShell](#powershell)
@@ -110,6 +112,10 @@
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 
+## HCL 
+
+- [mthorley/k8s-gitops](https://github.com/mthorley/k8s-gitops) - k8s gitops using FluxCD for home Pi clusters
+
 ## HTML 
 
 - [TPJelf/kankan](https://github.com/TPJelf/kankan) - Task management web app for people who struggle to get started.
@@ -134,6 +140,10 @@
 - [rsmbl/Resemble.js](https://github.com/rsmbl/Resemble.js) - Image analysis and comparison
 - [prjseal/Clean-Starter-Kit-for-Umbraco-v9](https://github.com/prjseal/Clean-Starter-Kit-for-Umbraco-v9) - 
 - [WICG/inert](https://github.com/WICG/inert) - Polyfill for the inert attribute and property.
+
+## Jupyter Notebook 
+
+- [lenaxia/home-ops-prod](https://github.com/lenaxia/home-ops-prod) - 
 
 ## Lua 
 
@@ -207,6 +217,7 @@
 
 ## YAML 
 
+- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
 - [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A template for deploying a Talos Kubernetes cluster including Flux for GitOps
 
 
