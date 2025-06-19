@@ -352,6 +352,8 @@
 
 ## kubernetes 
 
+- [mthorley/k8s-gitops](https://github.com/mthorley/k8s-gitops) - k8s gitops using FluxCD for home Pi clusters
+- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy conta
 - [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A template for deploying a Talos Kubernetes cluster including Flux for GitOps
 - [toboshii/home-ops](https://github.com/toboshii/home-ops) - My home Kubernetes cluster managed by GitOps (Flux), deployed on Talos Linux.
@@ -412,6 +414,7 @@
 
 ## others 
 
+- [lenaxia/home-ops-prod](https://github.com/lenaxia/home-ops-prod) - 
 - [scottksmith95/LINQKit](https://github.com/scottksmith95/LINQKit) - LINQKit is a free set of extensions for LINQ to SQL and Entity Framework power users.
 - [GIG-Cymru-NHS-Wales/architecture-decision-records](https://github.com/GIG-Cymru-NHS-Wales/architecture-decision-records) - Architecture decision records
 - [DamianEdwards/dotnet-purge](https://github.com/DamianEdwards/dotnet-purge) - .NET tool to do a real clean of a project directory
