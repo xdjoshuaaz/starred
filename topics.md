@@ -453,6 +453,7 @@
 
 ## others 
 
+- [tadast/switching-to-contracting-uk](https://github.com/tadast/switching-to-contracting-uk) - A step by step guide of how to start contracting in United Kingdom
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 - [controlplaneio-fluxcd/d2-fleet](https://github.com/controlplaneio-fluxcd/d2-fleet) - Example repository for cluster fleet management with Flux Operator and Gitless GitOps
