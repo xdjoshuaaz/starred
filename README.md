@@ -8,6 +8,7 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
+- [Clojure](#clojure)
 - [Dockerfile](#dockerfile)
 - [Go](#go)
 - [HCL](#hcl)
@@ -99,6 +100,10 @@
 - [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 - [mariusmotea/diyHue](https://github.com/mariusmotea/diyHue) - Philips Hue emulator that is able to control multiple types of lights
 
+## Clojure 
+
+- [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
+
 ## Dockerfile 
 
 - [microsoft/code-with-engineering-playbook](https://github.com/microsoft/code-with-engineering-playbook) - This is the playbook for "code-with" customer or partner engagements
@@ -123,7 +128,6 @@
 - [fluxcd/kustomize-controller](https://github.com/fluxcd/kustomize-controller) - The GitOps Toolkit Kustomize reconciler
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
-- [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
@@ -173,6 +177,7 @@
 
 ## Others 
 
+- [tadast/switching-to-contracting-uk](https://github.com/tadast/switching-to-contracting-uk) - A step by step guide of how to start contracting in United Kingdom
 - [controlplaneio-fluxcd/d2-infra](https://github.com/controlplaneio-fluxcd/d2-infra) - Example repository for cluster add-ons management with Flux Operator
 - [controlplaneio-fluxcd/d2-apps](https://github.com/controlplaneio-fluxcd/d2-apps) - Example repository for application delivery with Flux Operator
 - [devcontainers/spec](https://github.com/devcontainers/spec) - Development Containers: Use a container as a full-featured development environment.
