@@ -453,6 +453,7 @@
 
 ## others 
 
+- [bmadcode/BMAD-METHOD](https://github.com/bmadcode/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [tadast/switching-to-contracting-uk](https://github.com/tadast/switching-to-contracting-uk) - A step by step guide of how to start contracting in United Kingdom
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
