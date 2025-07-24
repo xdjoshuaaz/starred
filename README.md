@@ -212,6 +212,7 @@
 
 ## Shell 
 
+- [controlplaneio-fluxcd/charts](https://github.com/controlplaneio-fluxcd/charts) - ControlPlane Helm Charts
 - [toboshii/home-ops](https://github.com/toboshii/home-ops) - My home Kubernetes cluster managed by GitOps (Flux), deployed on Talos Linux.
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [catthehacker/docker_images](https://github.com/catthehacker/docker_images) - Docker images
@@ -220,7 +221,6 @@
 ## Smarty 
 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) - 
-- [controlplaneio-fluxcd/charts](https://github.com/controlplaneio-fluxcd/charts) - ControlPlane Helm Charts
 
 ## TSQL 
 
