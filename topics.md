@@ -479,7 +479,7 @@
 - [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters
 - [tpill90/ValheimMods](https://github.com/tpill90/ValheimMods) - A collection of mods for the game Valheim
 - [koenbeuk/EntityFrameworkCore.Projectables](https://github.com/koenbeuk/EntityFrameworkCore.Projectables) - Project over properties and functions in your linq queries
-- [TPJelf/kankan](https://github.com/TPJelf/kankan) - Task management web app for people who struggle to get started.
+- [TPJelf/kankan](https://github.com/TPJelf/kankan) - Task management web app for people who struggle to get started. Live demo linked below.
 - [videokojot/EFCore.BulkExtensions.MIT](https://github.com/videokojot/EFCore.BulkExtensions.MIT) - 
 - [jcdcdev/jcdcdev.Umbraco.ReadingTime](https://github.com/jcdcdev/jcdcdev.Umbraco.ReadingTime) - Custom Umbraco property editor for calculating reading time ⏲️
 - [bp2008/BetterClearTypeTuner](https://github.com/bp2008/BetterClearTypeTuner) - A better way to configure ClearType font smoothing on Windows 10.
