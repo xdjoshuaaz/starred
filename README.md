@@ -21,7 +21,6 @@
 - [PowerShell](#powershell)
 - [Python](#python)
 - [Ruby](#ruby)
-- [Rust](#rust)
 - [SCSS](#scss)
 - [Shell](#shell)
 - [Smarty](#smarty)
@@ -202,10 +201,6 @@
 
 - [bbc/wraith](https://github.com/bbc/wraith) - Wraith — A responsive screenshot comparison tool
 
-## Rust 
-
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
-
 ## SCSS 
 
 - [devlooped/oss](https://github.com/devlooped/oss) - Basic repo configuration for my OSS projects
@@ -255,6 +250,7 @@
 
 ## YAML 
 
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
 - [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A template for deploying a Talos Kubernetes cluster including Flux for GitOps
 
