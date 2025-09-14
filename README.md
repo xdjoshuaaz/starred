@@ -56,7 +56,6 @@
 - [KevinJump/uSync](https://github.com/KevinJump/uSync) - Database syncing tool for Umbraco CMS
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [dontnod/web-app-starter](https://github.com/dontnod/web-app-starter) - Boilerplate for a web application with React and .Net Core using Azure (MSAL) for the authentication
-- [jcdcdev/jcdcdev.Umbraco.PackageTemplate](https://github.com/jcdcdev/jcdcdev.Umbraco.PackageTemplate) - An opinionated template for creating Umbraco packages hosted on Github.
 - [thomhurst/ModularPipelines](https://github.com/thomhurst/ModularPipelines) - Write your pipelines in C# !
 - [Xabaril/AspNetCore.Diagnostics.HealthChecks](https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks) - Enterprise HealthChecks for ASP.NET Core Diagnostics Package
 - [threenine/Threenine.Data](https://github.com/threenine/Threenine.Data) - A Microsoft Entity Framework Core plugin providing Unit of work and repository pattern abstraction layer with common functionality
@@ -234,6 +233,7 @@
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
+- [jcdcdev/jcdcdev.Umbraco.PackageTemplate](https://github.com/jcdcdev/jcdcdev.Umbraco.PackageTemplate) - An opinionated template for creating Umbraco packages hosted on Github.
 - [nevware21/ts-async](https://github.com/nevware21/ts-async) - Promise support utilites and helpers for TypeScript
 - [microsoft/tsyringe](https://github.com/microsoft/tsyringe) - Lightweight dependency injection container for JavaScript/TypeScript
 - [jotaijs/jotai-tanstack-query](https://github.com/jotaijs/jotai-tanstack-query) - Jotai integration library for TanStack Query
