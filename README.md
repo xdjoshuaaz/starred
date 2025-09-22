@@ -177,7 +177,7 @@
 - [controlplaneio-fluxcd/d2-infra](https://github.com/controlplaneio-fluxcd/d2-infra) - Example repository for cluster add-ons management with Flux Operator
 - [controlplaneio-fluxcd/d2-apps](https://github.com/controlplaneio-fluxcd/d2-apps) - Example repository for application delivery with Flux Operator
 - [devcontainers/spec](https://github.com/devcontainers/spec) - Development Containers: Use a container as a full-featured development environment.
-- [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters
+- [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive load is what matters
 - [tc39/proposal-upsert](https://github.com/tc39/proposal-upsert) - ECMAScript Proposal, specs, and reference implementation for Map.prototype.upsert
 - [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [ddd-crew/ddd-starter-modelling-process](https://github.com/ddd-crew/ddd-starter-modelling-process) - If you're new to DDD and not sure where to start, this process will guide you step-by-step
