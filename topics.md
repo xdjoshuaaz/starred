@@ -18,6 +18,7 @@
 - [bash](#bash)
 - [chrome](#chrome)
 - [cli](#cli)
+- [cloud](#cloud)
 - [cms](#cms)
 - [code-review](#code-review)
 - [cpp](#cpp)
@@ -159,6 +160,10 @@
 ## cli 
 
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
+
+## cloud 
+
+- [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 
 ## cms 
 
