@@ -510,7 +510,7 @@
 - [emmebrusa/TSDZ2-Smart-EBike-1](https://github.com/emmebrusa/TSDZ2-Smart-EBike-1) - TSDZ2 Open Source Firmware adapted to VLCD5-VLCD6-XH18 displays
 - [catthehacker/docker_images](https://github.com/catthehacker/docker_images) - Docker images
 - [smallstep/docker-tls](https://github.com/smallstep/docker-tls) - TLS Certificate Management solutions for common Docker services. Including ACME enrollment, renewal, and reloading. Works with smallstep/certificates.
-- [devlooped/ThisAssembly](https://github.com/devlooped/ThisAssembly) - Exposes project and assembly level information as constants in the ThisAssembly class using source generators powered by Roslyn.
+- [devlooped/ThisAssembly](https://github.com/devlooped/ThisAssembly) - Expose project and assembly level information as constants in the ThisAssembly class using source generators powered by Roslyn.
 - [devlooped/oss](https://github.com/devlooped/oss) - Basic repo configuration for my OSS projects
 - [dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker) - Official container images for .NET
 - [EdwinVW/dapr-traffic-control](https://github.com/EdwinVW/dapr-traffic-control) - Simple sample application for experimenting with dapr.
