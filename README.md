@@ -73,7 +73,7 @@
 - [SimonCropp/Polyfill](https://github.com/SimonCropp/Polyfill) - Source only package that exposes newer APIs, .net features, and C# features to older runtimes.
 - [domn1995/dunet](https://github.com/domn1995/dunet) - C# discriminated union source generator
 - [gitextensions/gitextensions](https://github.com/gitextensions/gitextensions) - Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019).
-- [devlooped/ThisAssembly](https://github.com/devlooped/ThisAssembly) - Exposes project and assembly level information as constants in the ThisAssembly class using source generators powered by Roslyn.
+- [devlooped/ThisAssembly](https://github.com/devlooped/ThisAssembly) - Expose project and assembly level information as constants in the ThisAssembly class using source generators powered by Roslyn.
 - [riok/mapperly](https://github.com/riok/mapperly) - A .NET source generator for generating object mappings. No runtime reflection.
 - [louthy/language-ext](https://github.com/louthy/language-ext) - C# pure functional programming framework - come and get declarative!
 - [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) - Practical samples of ASP.NET Core 10 RC 1, 9, 8.0, 7.0, 6.0, 5.0, 3.1, 2.2, and 2.1,projects you can use. Readme contains explanations on all projects.
