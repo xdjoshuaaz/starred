@@ -54,6 +54,7 @@
 - [iot](#iot)
 - [javascript](#javascript)
 - [jquery](#jquery)
+- [json](#json)
 - [kubernetes](#kubernetes)
 - [language](#language)
 - [library](#library)
@@ -385,6 +386,10 @@
 ## jquery 
 
 - [gnat/surreal](https://github.com/gnat/surreal) - 🗿 Mini jQuery alternative. Dependency-free animations. Locality of Behavior.  Use one element or arrays transparently. Pairs with htmx. Vanilla querySelector() but better!
+
+## json 
+
+- [json-everything/json-everything](https://github.com/json-everything/json-everything) - System.Text.Json-based support for all of your JSON needs.
 
 ## kubernetes 
 
