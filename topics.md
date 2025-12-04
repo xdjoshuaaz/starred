@@ -450,7 +450,7 @@
 
 ## music 
 
-- [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
+- [snapcast/snapcast](https://github.com/snapcast/snapcast) - Synchronous multiroom audio player
 
 ## mysql 
 
