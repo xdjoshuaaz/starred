@@ -63,6 +63,7 @@
 - [linux](#linux)
 - [localization](#localization)
 - [lua](#lua)
+- [microservices](#microservices)
 - [minecraft](#minecraft)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
@@ -439,6 +440,10 @@
 ## lua 
 
 - [scottmckendry/Windots](https://github.com/scottmckendry/Windots) - My personal "Windows-friendly" dotfiles.
+
+## microservices 
+
+- [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services. Supports Visual Studi
 
 ## minecraft 
 
