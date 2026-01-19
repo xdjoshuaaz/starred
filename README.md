@@ -10,6 +10,7 @@
 - [C++](#c++)
 - [Dockerfile](#dockerfile)
 - [Go](#go)
+- [Go Template](#go-template)
 - [HCL](#hcl)
 - [HTML](#html)
 - [Java](#java)
@@ -24,7 +25,6 @@
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Shell](#shell)
-- [Smarty](#smarty)
 - [TSQL](#tsql)
 - [TypeScript](#typescript)
 - [YAML](#yaml)
@@ -129,6 +129,11 @@
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 
+## Go Template 
+
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) - 
+- [controlplaneio-fluxcd/charts](https://github.com/controlplaneio-fluxcd/charts) - Flux Operator Helm Charts
+
 ## HCL 
 
 - [controlplaneio-fluxcd/d2-fleet](https://github.com/controlplaneio-fluxcd/d2-fleet) - Example repository for cluster fleet management with Flux Operator and Gitless GitOps
@@ -214,15 +219,10 @@
 ## Shell 
 
 - [microsoft/Sysinternals-jcd](https://github.com/microsoft/Sysinternals-jcd) - Sysinternals jcd (jump change directory) is a Rust-based command-line tool that provides enhanced directory navigation with substring matching and smart selection. It's like the cd command, but with s
-- [controlplaneio-fluxcd/charts](https://github.com/controlplaneio-fluxcd/charts) - Flux Operator Helm Charts
 - [toboshii/home-ops](https://github.com/toboshii/home-ops) - My home Kubernetes cluster managed by GitOps (Flux), deployed on Talos Linux.
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [catthehacker/docker_images](https://github.com/catthehacker/docker_images) - Docker images
 - [smallstep/docker-tls](https://github.com/smallstep/docker-tls) - TLS Certificate Management solutions for common Docker services. Including ACME enrollment, renewal, and reloading. Works with smallstep/certificates.
-
-## Smarty 
-
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) - 
 
 ## TSQL 
 
