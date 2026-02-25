@@ -88,7 +88,6 @@
 - [novotnyllc/MSBuildSdkExtras](https://github.com/novotnyllc/MSBuildSdkExtras) - Extra properties for MSBuild SDK projects
 - [umbraco/Umbraco-CMS](https://github.com/umbraco/Umbraco-CMS) - Umbraco is a free and open source .NET content management system helping you deliver delightful digital experiences.
 - [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services. Supports Visual Studi
-- [KevinJump/DoStuffWithUmbraco](https://github.com/KevinJump/DoStuffWithUmbraco) - Bits and Pieces of Code to do things with Umbraco 8 & NetCore
 - [EcsRx/ecsrx](https://github.com/EcsRx/ecsrx) - A reactive take on the ECS pattern for .net game developers
 
 ## C++ 
@@ -254,6 +253,7 @@
 - [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [AdaptiveConsulting/ReactiveTraderCloud](https://github.com/AdaptiveConsulting/ReactiveTraderCloud) - Real-time FX trading showcase by Adaptive. THIS REPO IS NO LONGER MAINTAINED.
+- [KevinJump/DoStuffWithUmbraco](https://github.com/KevinJump/DoStuffWithUmbraco) - Bits and Pieces of Code to do things with Umbraco 8 & NetCore
 - [tiberiuzuld/angular-gridster2](https://github.com/tiberiuzuld/angular-gridster2) - Angular gridster 2
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
