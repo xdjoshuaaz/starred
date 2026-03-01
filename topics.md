@@ -409,7 +409,7 @@
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) - Cloud Native Policy Management
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) - Unified Policy as Code
 - [fluxcd/flux2](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [mthorley/k8s-gitops](https://github.com/mthorley/k8s-gitops) - k8s gitops using FluxCD for home Pi clusters
