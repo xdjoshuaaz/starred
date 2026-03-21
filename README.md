@@ -64,7 +64,6 @@
 - [KirillOsenkov/MSBuildStructuredLog](https://github.com/KirillOsenkov/MSBuildStructuredLog) - A logger for MSBuild that records a structured representation of executed targets, tasks, property and item values.
 - [xunit/xunit](https://github.com/xunit/xunit) - xUnit.net is a free, open source, community-focused unit testing tool for .NET.
 - [xunit/xunit.analyzers](https://github.com/xunit/xunit.analyzers) - Roslyn analyzers for xUnit.net (please open issues in https://github.com/xunit/xunit)
-- [jcdcdev/Umbraco.Community.SimpleDashboards](https://github.com/jcdcdev/Umbraco.Community.SimpleDashboards) - Simplifies C# based Umbraco CMS dashboards ✨
 - [microsoft/MSBuildSdks](https://github.com/microsoft/MSBuildSdks) - MSBuild project SDKs
 - [Humanizr/Humanizer](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
 - [ardalis/GuardClauses](https://github.com/ardalis/GuardClauses) - A simple package with guard clause extensions.
@@ -245,6 +244,7 @@
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [ardatan/feTS](https://github.com/ardatan/feTS) - 🗹 TypeScript HTTP Framework focusing on e2e type-safety, easy setup, performance & great developer experience
+- [jcdcdev/Umbraco.Community.SimpleDashboards](https://github.com/jcdcdev/Umbraco.Community.SimpleDashboards) - Simplifies C# based Umbraco CMS dashboards ✨
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [fabien0102/openapi-codegen](https://github.com/fabien0102/openapi-codegen) - A tool for generating code base on an OpenAPI schema.
