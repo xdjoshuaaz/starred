@@ -87,6 +87,7 @@
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [rest-api](#rest-api)
+- [reverse-engineering](#reverse-engineering)
 - [rust](#rust)
 - [security](#security)
 - [self-hosted](#self-hosted)
@@ -620,6 +621,10 @@
 ## rest-api 
 
 - [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
+
+## reverse-engineering 
+
+- [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
 
 ## rust 
 
