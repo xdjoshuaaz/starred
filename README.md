@@ -157,7 +157,7 @@
 - [dylanraga/win11hdr-srgb-to-gamma2.2-icm](https://github.com/dylanraga/win11hdr-srgb-to-gamma2.2-icm) - Transform Windows 11's virtual SDR-in-HDR curve from piecewise sRGB to Gamma 2.2
 - [supermedium/moonrider](https://github.com/supermedium/moonrider) - 🌕🏄🏿 Surf the musical road among the stars. Side project built by two people in a few months to demonstrate WebXR.
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [graphql/dataloader](https://github.com/graphql/dataloader) - DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and ca
 - [EdwinVW/dapr-traffic-control](https://github.com/EdwinVW/dapr-traffic-control) - Simple sample application for experimenting with dapr.
 - [rsmbl/Resemble.js](https://github.com/rsmbl/Resemble.js) - Image analysis and comparison
