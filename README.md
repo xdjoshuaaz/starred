@@ -125,7 +125,6 @@
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
-- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 
 ## Go Template 
@@ -232,6 +231,7 @@
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
+- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [jcdcdev/jcdcdev.Umbraco.PackageTemplate](https://github.com/jcdcdev/jcdcdev.Umbraco.PackageTemplate) - An opinionated template for creating Umbraco packages hosted on Github.
 - [nevware21/ts-async](https://github.com/nevware21/ts-async) - Promise support utilites and helpers for TypeScript
 - [microsoft/tsyringe](https://github.com/microsoft/tsyringe) - Lightweight dependency injection container for JavaScript/TypeScript
