@@ -144,7 +144,7 @@
 
 ## Java 
 
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
+- [theonedev/onedev](https://github.com/theonedev/onedev) - The Unified and Autonomous Development Platform
 - [Shadows-of-Fire/Toast-Control](https://github.com/Shadows-of-Fire/Toast-Control) - Because Mojang can't into popups.
 
 ## JavaScript 
