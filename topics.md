@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [ai](#ai)
 - [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
@@ -109,6 +110,10 @@
 - [webapp](#webapp)
 - [windows](#windows)
 - [xamarin](#xamarin)
+
+## ai 
+
+- [theonedev/onedev](https://github.com/theonedev/onedev) - The Unified and Autonomous Development Platform
 
 ## analytics 
 
@@ -235,7 +240,7 @@
 - [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
+- [theonedev/onedev](https://github.com/theonedev/onedev) - The Unified and Autonomous Development Platform
 
 ## discord 
 
@@ -320,7 +325,7 @@
 ## git 
 
 - [gitextensions/gitextensions](https://github.com/gitextensions/gitextensions) - Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019).
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
+- [theonedev/onedev](https://github.com/theonedev/onedev) - The Unified and Autonomous Development Platform
 
 ## github 
 
@@ -644,7 +649,7 @@
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
+- [theonedev/onedev](https://github.com/theonedev/onedev) - The Unified and Autonomous Development Platform
 
 ## shell 
 
