@@ -151,7 +151,6 @@
 ## JavaScript 
 
 - [hargata/lubelog](https://github.com/hargata/lubelog) - LubeLogger is a web-based vehicle maintenance and fuel mileage tracker
-- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [microsoft/rust-for-dotnet-devs](https://github.com/microsoft/rust-for-dotnet-devs) - Rust for C#/.NET Developers
 - [gnat/surreal](https://github.com/gnat/surreal) - 🗿 Mini jQuery alternative. Dependency-free animations. Locality of Behavior.  Use one element or arrays transparently. Pairs with htmx. Vanilla querySelector() but better!
 - [dylanraga/win11hdr-srgb-to-gamma2.2-icm](https://github.com/dylanraga/win11hdr-srgb-to-gamma2.2-icm) - Transform Windows 11's virtual SDR-in-HDR curve from piecewise sRGB to Gamma 2.2
@@ -195,6 +194,7 @@
 
 ## Python 
 
+- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [haoheliu/versatile_audio_super_resolution](https://github.com/haoheliu/versatile_audio_super_resolution) - Versatile audio super resolution (any -&gt; 48kHz) with AudioSR.
 - [kaganisildak/malwarescarecrow](https://github.com/kaganisildak/malwarescarecrow) - A tool designed to make physical devices detectable by malware and make system look like virtual machine.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
