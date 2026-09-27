@@ -512,6 +512,7 @@
 
 ## others 
 
+- [microsoft/WindowsDeveloperConfig](https://github.com/microsoft/WindowsDeveloperConfig) - Automate the setup and configuration of your Windows development environment.
 - [hargata/lubelog](https://github.com/hargata/lubelog) - LubeLogger is a web-based vehicle maintenance and fuel mileage tracker
 - [microsoft/Sysinternals-jcd](https://github.com/microsoft/Sysinternals-jcd) - Sysinternals jcd (jump change directory) is a Rust-based command-line tool that provides enhanced directory navigation with substring matching and smart selection. It's like the cd command, but with s
 - [tadast/switching-to-contracting-uk](https://github.com/tadast/switching-to-contracting-uk) - A step by step guide of how to start contracting in United Kingdom
