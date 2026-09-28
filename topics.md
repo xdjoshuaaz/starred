@@ -5,7 +5,9 @@
 
 ## Contents
 
+- [agent](#agent)
 - [ai](#ai)
+- [ai-agents](#ai-agents)
 - [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
@@ -23,6 +25,7 @@
 - [cloud](#cloud)
 - [cms](#cms)
 - [code-review](#code-review)
+- [coding](#coding)
 - [cpp](#cpp)
 - [csharp](#csharp)
 - [data](#data)
@@ -66,6 +69,7 @@
 - [linux](#linux)
 - [localization](#localization)
 - [lua](#lua)
+- [mcp](#mcp)
 - [microservices](#microservices)
 - [minecraft](#minecraft)
 - [mongodb](#mongodb)
@@ -111,10 +115,21 @@
 - [windows](#windows)
 - [xamarin](#xamarin)
 
+## agent 
+
+- [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) - agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes  and reinforcement learning (RL).
+
 ## ai 
 
+- [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) - agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes  and reinforcement learning (RL).
+- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [theonedev/onedev](https://github.com/theonedev/onedev) - The Unified and Autonomous Development Platform
+
+## ai-agents 
+
+- [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - agent runtime security - zero trust, zero setup, zero latency.
 
 ## analytics 
 
@@ -195,6 +210,10 @@
 ## code-review 
 
 - [erikthedeveloper/code-review-emoji-guide](https://github.com/erikthedeveloper/code-review-emoji-guide) - An emoji legend to help convey intention and added meaning in code review comments.
+
+## coding 
+
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 
 ## cpp 
 
@@ -423,6 +442,7 @@
 
 ## kubernetes 
 
+- [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) - agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes  and reinforcement learning (RL).
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
@@ -461,6 +481,10 @@
 ## lua 
 
 - [scottmckendry/Windots](https://github.com/scottmckendry/Windots) - My personal "Windows-friendly" dotfiles.
+
+## mcp 
+
+- [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - agent runtime security - zero trust, zero setup, zero latency.
 
 ## microservices 
 
@@ -512,6 +536,7 @@
 
 ## others 
 
+- [nolabs-ai/nono-packs](https://github.com/nolabs-ai/nono-packs) - Repository for nolabs maintained nono packages
 - [microsoft/WindowsDeveloperConfig](https://github.com/microsoft/WindowsDeveloperConfig) - Automate the setup and configuration of your Windows development environment.
 - [hargata/lubelog](https://github.com/hargata/lubelog) - LubeLogger is a web-based vehicle maintenance and fuel mileage tracker
 - [microsoft/Sysinternals-jcd](https://github.com/microsoft/Sysinternals-jcd) - Sysinternals jcd (jump change directory) is a Rust-based command-line tool that provides enhanced directory navigation with substring matching and smart selection. It's like the cd command, but with s
@@ -642,6 +667,7 @@
 
 ## security 
 
+- [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - agent runtime security - zero trust, zero setup, zero latency.
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Unified Policy as Code
 - [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Persona
 
