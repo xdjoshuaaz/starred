@@ -130,7 +130,7 @@
 
 ## ai-agents 
 
-- [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - agent runtime security - zero trust, zero setup, zero latency micro sandboxes
+- [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - agent runtime security - zero trust, zero setup, zero latency agent sandbox
 
 ## analytics 
 
@@ -485,7 +485,7 @@
 
 ## mcp 
 
-- [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - agent runtime security - zero trust, zero setup, zero latency micro sandboxes
+- [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - agent runtime security - zero trust, zero setup, zero latency agent sandbox
 
 ## microservices 
 
@@ -668,7 +668,7 @@
 
 ## security 
 
-- [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - agent runtime security - zero trust, zero setup, zero latency micro sandboxes
+- [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - agent runtime security - zero trust, zero setup, zero latency agent sandbox
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Unified Policy as Code
 - [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Persona
 
