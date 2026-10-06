@@ -208,7 +208,7 @@
 
 ## Rust 
 
-- [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - agent runtime security - zero trust, zero setup, zero latency micro sandboxes
+- [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - agent runtime security - zero trust, zero setup, zero latency agent sandbox
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 
 ## Shell 
