@@ -71,6 +71,7 @@
 - [localization](#localization)
 - [lua](#lua)
 - [mcp](#mcp)
+- [mcp-server](#mcp-server)
 - [microservices](#microservices)
 - [minecraft](#minecraft)
 - [mongodb](#mongodb)
@@ -493,6 +494,10 @@
 
 - [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - agent runtime security - zero trust, zero setup, zero latency agent sandboxing
 
+## mcp-server 
+
+- [controlplaneio-fluxcd/flux-operator](https://github.com/controlplaneio-fluxcd/flux-operator) - GitOps on Autopilot Mode
+
 ## microservices 
 
 - [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services. Supports Visual Studi
@@ -554,7 +559,6 @@
 - [controlplaneio-fluxcd/d2-infra](https://github.com/controlplaneio-fluxcd/d2-infra) - Example repository for cluster add-ons management with Flux Operator
 - [controlplaneio-fluxcd/d2-apps](https://github.com/controlplaneio-fluxcd/d2-apps) - Example repository for application delivery with Flux Operator
 - [controlplaneio-fluxcd/charts](https://github.com/controlplaneio-fluxcd/charts) - Flux Operator Helm Charts
-- [controlplaneio-fluxcd/flux-operator](https://github.com/controlplaneio-fluxcd/flux-operator) - GitOps on Autopilot Mode
 - [fluxcd/source-controller](https://github.com/fluxcd/source-controller) - The GitOps Toolkit source management component
 - [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) - The GitOps Toolkit Helm reconciler, for declarative Helming
 - [fluxcd/kustomize-controller](https://github.com/fluxcd/kustomize-controller) - The GitOps Toolkit Kustomize reconciler
