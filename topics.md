@@ -562,7 +562,6 @@
 - [fluxcd/source-controller](https://github.com/fluxcd/source-controller) - The GitOps Toolkit source management component
 - [fluxcd/helm-controller](https://github.com/fluxcd/helm-controller) - The GitOps Toolkit Helm reconciler, for declarative Helming
 - [fluxcd/kustomize-controller](https://github.com/fluxcd/kustomize-controller) - The GitOps Toolkit Kustomize reconciler
-- [lenaxia/home-ops-prod](https://github.com/lenaxia/home-ops-prod) - 
 - [scottksmith95/LINQKit](https://github.com/scottksmith95/LINQKit) - LINQKit is a free set of extensions for LINQ to SQL and Entity Framework power users.
 - [DamianEdwards/dotnet-purge](https://github.com/DamianEdwards/dotnet-purge) - .NET tool to do a real clean of a project directory
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
